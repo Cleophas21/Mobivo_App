@@ -16,7 +16,7 @@ function Signup(){
     const handleSignup = async (e) => {
         try {
             e.preventDefault();
-            await axios.post('http://localhost:5000/register', { name, email, password });
+            await axios.post('https://backend-app-rnqy.onrender.com/register', { name, email, password });
             alert('You have sucesfully Registered Login now');
             navigate('/login')
 
