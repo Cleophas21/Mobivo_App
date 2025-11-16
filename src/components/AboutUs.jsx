@@ -10,12 +10,12 @@ function About() {
 
 
 
-                    <h2 className="text-4xl font-bold text-blue-500 mb-6">Why Choose Artex</h2>
-                    <ul className="mt-9 space-y-4 text-gray-700">
+                    <h2 className="text-4xl font-bold text-blue-500 mb-6">Why Choose techpulse</h2>
+                    <ul className="mt-9 space-y-4 text-blue-500">
                         <li className="text-lg flex items-start  gap-4 mb-2 "> <FaCheckCircle className="text-blue-500 text-lg mr-2" />Every product is designed with the planet in mind.</li>
                         <li className="text-lg flex items-start  gap-4 mb-2 "><FaCheckCircle className="text-blue-500 text-lg mr-2" />Advanced materials and energy Efficient designed.</li >
                         <li className="text-lg flex items-start  gap-4 mb-2 "><FaCheckCircle className="text-blue-500 text-lg mr-2" />Honest materials, fair production and eco- certification</li>
-                        <li className="text-lg flex items-start  gap-4 mb-2 "><FaCheckCircle className="text-blue-500 text-lg mr-2" /> Reducing e- waste and promoting responsible tech use.sss</li>
+                        <li className="text-lg flex items-start  gap-4 mb-2 "><FaCheckCircle className="text-blue-500 text-lg mr-2" /> Reducing e- waste and promoting responsible tech use.</li>
                     </ul>
 
                 </div>
